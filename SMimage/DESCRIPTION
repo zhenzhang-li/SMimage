@@ -1,0 +1,12 @@
+Package: SMimage
+Type: Package
+Title: Gene map images generation based on spiral mapping algorithm.
+Version: 1.0.0
+Date: 2023-03-06
+Author: Zhenzhang Li, Wen Luo
+Maintainer: Wen Luo <luowengjs2018@foxmail.com>
+Description: We have designed an algorithm, called "spiral mapping algorithm", which can enriches or discretizes the feature of one vector in a certain way. Based on the spiral mapping algorithm, the R package transforms the gene function map into an independent feature image of each sample. In this way, we can use deep learning method to mine and identify biological or clinical marker information through grouping information.
+License: GPL-2
+LazyLoad: yes
+NeedsCompilation: yes
+Packaged: 2023-03-06 18:50:06 UTC;
